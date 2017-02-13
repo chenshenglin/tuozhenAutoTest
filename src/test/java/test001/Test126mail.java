@@ -29,6 +29,7 @@ public class Test126mail {
 		driver.findElement(By.xpath("//input[@type='password' and @class='j-inputtext dlpwd']")).sendKeys("csl53241csl",Keys.ENTER);
 		driver.switchTo().defaultContent();//退出所有表单，
 		
+		
 		try {
 			Thread.sleep(10000);
 		} catch (InterruptedException e) {
