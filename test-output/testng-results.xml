@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42500" started-at="2017-02-13T15:32:59Z" finished-at="2017-02-13T15:33:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42500" started-at="2017-02-13T15:32:59Z" finished-at="2017-02-13T15:33:41Z">
+      <class name="test001.Test126mail">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test001.Test126mail@e5ecb2]" name="beforeClass" is-config="true" duration-ms="20485" started-at="2017-02-13T23:32:59Z" finished-at="2017-02-13T23:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="start()[pri:0, instance:test001.Test126mail@e5ecb2]" name="start" duration-ms="19422" started-at="2017-02-13T23:33:19Z" finished-at="2017-02-13T23:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:test001.Test126mail@e5ecb2]" name="quit" is-config="true" duration-ms="2578" started-at="2017-02-13T23:33:39Z" finished-at="2017-02-13T23:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- test001.Test126mail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
